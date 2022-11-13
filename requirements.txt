@@ -1,0 +1,5 @@
+django==4.0
+djangorestframework
+mysqlclient
+dj-rest-auth
+dj-rest-auth[with_social]
